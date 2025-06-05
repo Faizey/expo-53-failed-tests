@@ -7,6 +7,6 @@ This repo is a minimal working example of the bug caused by jest-expo in Expo SD
 ## How to Install and Run
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 npm test
 ```
